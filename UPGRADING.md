@@ -2,7 +2,8 @@
 
 #### 1. The `css`, `overlayCSS`, `contentCSS`, and `closeCSS` options have been removed
 
-Use CSS classes in your stylesheets and the appropriate `ClassName` options. Depending on how the CSS options were being used, support may be re-added in the future.
+Use CSS classes in your stylesheets and the appropriate [`ClassName` options](./api/3-Advanced.md#dom-structure).
+Depending on how the CSS options were being used, support may be re-added in the future.
 
 #### 2. `vexOpen` and `vexClose` events are no longer emitted
 
